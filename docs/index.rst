@@ -5,10 +5,14 @@ How to Login to Bitlocker: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-For Log IN, go to 👉 https://bitlockeraccount.com
-----------------------------
 
 BitLocker is a built-in Windows utility that helps users encrypt their hard drives. It is a trusted tool in an age when digital privacy is very important. It offers an extra layer of security to keep your files and data safe from others who shouldn't be able to get to them, especially if the device is lost or stolen. BitLocker doesn't have a normal "login" page as programs or websites do, though. You have to use a password, recovery key, or some other way to access your encrypted drive instead.
+
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
 
 This post will show you how to "log in" or unlock a BitLocker-encrypted drive, the many ways to do this, and how to fix things if something goes wrong.
 
